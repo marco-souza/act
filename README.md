@@ -6,6 +6,13 @@ This is compatible with Node.js, Deno and Bun via [`jsr.io`](httos://jsr.io).
 
 > Did you get the code? by @dev-marcal
 
+## Usage
+
+```sh
+# run deno form jsr
+deno run jsr:@act/act
+```
+
 ## 🚀 Act First, Think Later 🚀
 
 **Get ready to embark on a journey of self-discovery Wtf**
