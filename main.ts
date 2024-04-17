@@ -1,4 +1,4 @@
-export function act(action: string) {
+export function act(action: string): boolean {
   const actIndex = action.toLowerCase().indexOf("act");
   const thinkIndex = action.toLowerCase().indexOf("think");
   return actIndex < thinkIndex;
