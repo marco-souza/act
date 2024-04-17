@@ -14,19 +14,19 @@ The call to action **"Act first, think later"** encourages you to take bold step
 
 This project is your **guide to navigating life's exciting and sometimes messy terrain**. We'll equip you with actionable strategies and self-reflection techniques to:
 
-💪 **Unleash your potential**
-🧠 **Sharpen your mind**
-💪 **Conquer your fears**
-🧠 **Build your confidence**
-💪 **Live authentically**
+- 💪 **Unleash your potential**
+- 🧠 **Sharpen your mind**
+- 💪 **Conquer your fears**
+- 🧠 **Build your confidence**
+- 💪 **Live authentically**
 
 Join us on this **continuous path of empowerment**. Explore our **resources** and **tools** to discover the **act-think-grow** approach in action.
 
 **Get ready to:**
 
-👋 Ignite your inner explorer 💪
-🧠 Cultivate lifelong curiosity 🧠
-💪 Overcome your self-doubts 💪
-🧠 Embrace the limitless possibilities 🤩
+- 👋 Ignite your inner explorer 💪
+- 🧠 Cultivate lifelong curiosity 🧠
+- 💪 Overcome your self-doubts 💪
+- 🧠 Embrace the limitless possibilities 🤩
 
 **Act with confidence and think thoughtfully. Let's embark on a transformative adventure!**
