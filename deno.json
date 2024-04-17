@@ -1,5 +1,10 @@
 {
+  "name": "@act/act",
+  "version": "0.1.0",
+  "exports": "./main.ts",
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "dev": "deno run --watch main.ts",
+    "test": "deno test --watch main.ts",
+    "coverage": "deno test --coverage=reports/coverage && deno coverage reports/coverage"
   }
 }
